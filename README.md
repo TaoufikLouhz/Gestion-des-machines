@@ -1,6 +1,6 @@
 # Gestion des Machines
 
-![Alt text](image-10.png)
+![Alt text](image.png)
 
 # Ajouter machine
 

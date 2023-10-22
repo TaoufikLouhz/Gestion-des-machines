@@ -1,6 +1,6 @@
 # Gestion des Machines
 
-https://user-images.githubusercontent.com/110036016/277184652-d10e1561-34d3-42ba-b784-ba6427c2ea38.png
+![Alt text](image.png)
 
 # Ajouter machine
 
